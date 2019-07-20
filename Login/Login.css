@@ -1,0 +1,19 @@
+/* form size*/
+body 
+{
+	 		
+	padding: 30px;
+
+}
+p,form,header, h1
+{
+/* aligns form contents to center */
+	align-self: center;
+		
+   /* changes text color to green */
+    color: green;
+
+
+}
+   /* text area size  and position */ 
+   
